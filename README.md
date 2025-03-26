@@ -37,14 +37,6 @@ Continuous control using actor-critic architecture with target networks and expl
 
 ---
 
-## 💻 Tech Stack
-
-- Python, PyTorch, NumPy
-- Gymnasium, Matplotlib, TensorBoard
-- DQN, Q-learning, DDPG, Replay Buffers, Noise Models
-
----
-
 ## 📬 About Me
 
 I'm passionate about robotics, control, and reinforcement learning.  
